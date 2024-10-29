@@ -37,7 +37,7 @@ Bu projede, geriye değer döndüren ve döndürmeyen metotları öğrendim. Bu 
 ✨ Proje 9: Veritabanı Projeleri
 
 Bu projede, microsoft sql management studio ile "EgitimKampiDb" veri tabanı oluşturup "TblProduct", "TblCategory", "TblOrde" tabloları oluşturup bu tablolara veri girişi yaptım. Daha sonra bu veritabanını projeme bağladım ve "TblProduct" tablosundaki verileri listeledim. 🔢
-.
+
 ✨ Proje 10: CRUD(create-read-update-delete) İşlemleri
 
 Bu projede, önceki projede bağladığım veritabanı ile crud işlemleri yaptım. 🧩

@@ -43,3 +43,13 @@ Bu projede, microsoft sql management studio ile "EgitimKampiDb" veri tabanı olu
 Bu projede, önceki projede bağladığım veritabanı ile crud işlemleri yaptım. 🧩
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+
+✨Entity Framework Metotları ve Linq Sorgular
+
+Bu projede "EgitimKampiEfTravelDb" adlı veritabanı oluşturup oradan Linq sorguları ile veri çekmeyi öğrendim ve birçok sorgu yazarak kendimi geliştirmeye çalıştım.🌍
+
+![image](https://github.com/user-attachments/assets/b3921ee5-e87a-41fe-9157-f352c0782996)
+
+
+
+

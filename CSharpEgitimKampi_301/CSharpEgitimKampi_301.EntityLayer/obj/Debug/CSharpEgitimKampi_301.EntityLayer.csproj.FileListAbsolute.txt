@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\CSharpEgitimKampi_301.EntityLayer.dll.config
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\CSharpEgitimKampi_301.EntityLayer.dll
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\CSharpEgitimKampi_301.EntityLayer.pdb
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\obj\Debug\CSharpEgitimKampi_301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\obj\Debug\CSharpEgitimKampi_301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\obj\Debug\CSharpEgitimKampi_301.EntityLayer.csproj.CopyComplete
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\obj\Debug\CSharpEgitimKampi_301.EntityLayer.dll
+C:\Users\Asus\source\repos\CSharpEgitimKampi_301\CSharpEgitimKampi_301.EntityLayer\obj\Debug\CSharpEgitimKampi_301.EntityLayer.pdb
